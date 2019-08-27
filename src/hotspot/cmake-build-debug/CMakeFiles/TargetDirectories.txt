@@ -1,0 +1,3 @@
+/opt/jdk/openjdk12/src/hotspot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/opt/jdk/openjdk12/src/hotspot/cmake-build-debug/CMakeFiles/hotspot.dir
+/opt/jdk/openjdk12/src/hotspot/cmake-build-debug/CMakeFiles/edit_cache.dir

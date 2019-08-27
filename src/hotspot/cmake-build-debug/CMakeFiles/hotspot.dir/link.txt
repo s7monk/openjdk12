@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   @CMakeFiles/hotspot.dir/objects1.rsp  -o hotspot 
